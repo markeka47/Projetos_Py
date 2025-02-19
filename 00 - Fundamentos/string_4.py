@@ -19,6 +19,6 @@ print(
 
     ================================
 
-            Obrigado por usar nosso sistema!!!!
+    Obrigado por usar nosso sistema!!!!
 """
 )
