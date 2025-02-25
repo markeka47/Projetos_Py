@@ -6,7 +6,7 @@ numbersp = [4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38,
 numbersi = [1, 9, 15, 21, 25, 27, 33, 35, 39, 45, 49, 51, 55, 57]
 
 # Randomly select 2 unique numbers from the list
-selected_numbers = random.sample(numbers, 2)
+selected_numberspr = random.sample(numberspr, 2)
 selected_numbersp = random.sample(numbersp, 2)
 selected_numbersi = random.sample(numbersi, 2)
 
